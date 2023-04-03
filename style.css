@@ -2,21 +2,21 @@ p {
   color: aliceblue;
 }
 header{
-front-size: 20px;
+front-family: Helvetica;
 }
 h1 {
 color: maroon;
 }
-ol{
-
+ol {
+color: darkgreen; 
 }
-body{
+body {
 background-color: #66283b;
 }
 ul{
-font-size:
+font-size: 32px;
 }
 footer{
-front-weight: 
+front-weight: 100;
 }
 
